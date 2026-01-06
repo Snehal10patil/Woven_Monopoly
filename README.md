@@ -104,9 +104,3 @@ Performance Optimization:
 Error Handling:
     Add error handling for invalid JSON files or unexpected input.
 
-
-Contact
-For questions or feedback, please contact:
-
-Name: Snehal Kale
-Email: snehal123k@gmail.com
